@@ -6,7 +6,7 @@ The notebooks progress from chemical structure -> descriptors -> fingerprints ->
 
 ## Repository Structure
 
-Notebooks/
+Notebooks/  
     01-cheminformatics-and-rdkit-basics.ipynb  
     02-rdkit-descriptors.ipynb  
     03-rdkit-fingerprints.ipynb  
